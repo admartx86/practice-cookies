@@ -1,5 +1,5 @@
 🔰 Practice Project
 
-Early JavaScript practice from 2022.
+Early JavaScript practice from 2023.
 
 Learning cookies.
